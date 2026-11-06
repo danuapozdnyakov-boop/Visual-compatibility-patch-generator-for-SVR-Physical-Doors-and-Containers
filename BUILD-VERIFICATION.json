@@ -1,0 +1,8 @@
+{
+  "rebuilt_from_separate_source_copy": true,
+  "toolchain": "MSVC 19.51 / CMake 4.3.1 / Ninja / .NET Framework csc",
+  "gui_workflow_models": 41,
+  "unsupported": 0,
+  "runtime_zip_sha256": "90905e64a840557d8c1bc4f5b74db3d7ee85e3ffb217611cac1c7813acea4159",
+  "bit_reproducible_binary_claim": false
+}

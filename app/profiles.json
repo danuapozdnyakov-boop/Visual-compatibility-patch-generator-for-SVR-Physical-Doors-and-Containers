@@ -1,0 +1,2709 @@
+[
+  {
+    "kind": "doors",
+    "original": "_byoh\\architecture\\byohhouse\\byohwrdoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\_byoh\\architecture\\byohhouse\\byohwrdoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "WRDoor03LoadL01"
+      ],
+      [
+        "SVR_Physical_29",
+        "WRDoor03LoadR01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\farmhouse\\farmhouseanimdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\farmhouse\\farmhouseanimdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "Door01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\farmhouse\\farmhouseanimdoor02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\farmhouse\\farmhouseanimdoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "Door02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\farmhouse\\farmhousedoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\farmhouse\\farmhousedoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "FarmhouseDoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\farmhouse\\farmhouseldoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\farmhouse\\farmhouseldoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_16",
+        "Door"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\farmhouse\\interior\\basement\\farmhousejaildoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\farmhouse\\interior\\basement\\farmhousejaildoor01.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_13",
+        "JailDoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\highhrothgar\\hhdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\highhrothgar\\hhdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Left Door03"
+      ],
+      [
+        "SVR_Physical_26",
+        "Right Door02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\highhrothgar\\hhdoor02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\highhrothgar\\hhdoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_21",
+        "Left Door01"
+      ],
+      [
+        "SVR_Physical_30",
+        "Right Door01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\highhrothgar\\hhsprintgate.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\highhrothgar\\hhsprintgate.nif",
+    "pairs": [
+      [
+        "SVR_Physical_54",
+        "Gate01"
+      ],
+      [
+        "SVR_Physical_62",
+        "Gate02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\markarth\\mrkdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\markarth\\mrkdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "BronzeRegDoorL"
+      ],
+      [
+        "SVR_Physical_26",
+        "BronzeRegDoorR"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\markarth\\mrkdoor02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\markarth\\mrkdoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "SpecialDoorL"
+      ],
+      [
+        "SVR_Physical_33",
+        "SpecialDoorR"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\markarth\\mrkmarketstalldoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\markarth\\mrkmarketstalldoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "MrkStallDoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\orclonghouse\\orcdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\orclonghouse\\orcdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "Door"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\orclonghouse\\orcdoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\orclonghouse\\orcdoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "Door01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\riften\\riftendoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\riften\\riftendoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_25",
+        "RiftenDoorR"
+      ],
+      [
+        "SVR_Physical_35",
+        "RiftenDoorL"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\riften\\riftendoor02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\riften\\riftendoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "RiftenDoor02L01"
+      ],
+      [
+        "SVR_Physical_24",
+        "RiftenDoor02R01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\riften\\riftenkeepdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\riften\\riftenkeepdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_27",
+        "RightDoor"
+      ],
+      [
+        "SVR_Physical_44",
+        "LeftDoor"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\riften\\rtirongate01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\riften\\rtirongate01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_20",
+        "Gate"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\riften\\rtirongate02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\riften\\rtirongate02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_26",
+        "Gate"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\riften\\rtmaingate01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\riften\\rtmaingate01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DoorR"
+      ],
+      [
+        "SVR_Physical_38",
+        "DoorL"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\riften\\rtmarketstalldoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\riften\\rtmarketstalldoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "StallDoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\riften\\rtstabledoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\riften\\rtstabledoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "StableGate"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\skyhaventemple\\skyhavendoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\skyhaventemple\\skyhavendoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DoorLeft"
+      ],
+      [
+        "SVR_Physical_29",
+        "DoorRight"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\skyhaventemple\\skyhavenheaddoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\skyhaventemple\\skyhavenheaddoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_24",
+        "MoveCollision"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\sdoorjail01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\sdoorjail01.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_26",
+        "Door Left"
+      ],
+      [
+        "SVR_GrabOnly_39",
+        "DoorRight"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\sdoorjail02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\sdoorjail02.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_22",
+        "Door Left01"
+      ],
+      [
+        "SVR_GrabOnly_31",
+        "DoorRight01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\sdoorjail02load.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\sdoorjail02load.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_22",
+        "Door Left02"
+      ],
+      [
+        "SVR_GrabOnly_31",
+        "DoorRight02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\sdoubledoorint01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\sdoubledoorint01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Door01"
+      ],
+      [
+        "SVR_Physical_26",
+        "Door02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\sgatedoor.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\sgatedoor.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "SGateDoorLeft"
+      ],
+      [
+        "SVR_Physical_26",
+        "SGateDoorRight"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\shousedoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\shousedoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Door right1"
+      ],
+      [
+        "SVR_Physical_26",
+        "Door LR 011"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\shousedoor02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\shousedoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Door LR 04"
+      ],
+      [
+        "SVR_Physical_28",
+        "Door right05"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\shousedoor03.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\shousedoor03.nif",
+    "pairs": [
+      [
+        "SVR_Physical_22",
+        "Door left"
+      ],
+      [
+        "SVR_Physical_33",
+        "Door right01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\shouseintdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\shouseintdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Door right"
+      ],
+      [
+        "SVR_Physical_28",
+        "Door LR 01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\shouseintdoor02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\shouseintdoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Door right03"
+      ],
+      [
+        "SVR_Physical_27",
+        "Door LR 02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\shouseintdoor02load.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\shouseintdoor02load.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Door right04"
+      ],
+      [
+        "SVR_Physical_27",
+        "Door LR 03"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\slgdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\slgdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "SGateDoorLeft01"
+      ],
+      [
+        "SVR_Physical_26",
+        "SGateDoorRight01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\smddoorholecei01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\smddoorholecei01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "SMdDoorHoleCei01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\ssingledoorint01l.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\ssingledoorint01l.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "SSingleDoorInt01L@#0"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\ssingledoorint01load.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\ssingledoorint01load.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "SSingleDoorInt01mesh02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\ssingledoorint01r.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\ssingledoorint01r.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "SSingleDoorInt01R@#0"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\doors\\ssingledoorintjail01r.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\doors\\ssingledoorintjail01r.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "SSingleDoorInt01mesh03"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\solitude\\spatiogate01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\solitude\\spatiogate01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_22",
+        "Door Left"
+      ],
+      [
+        "SVR_Physical_31",
+        "DoorRight"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\sovengarde\\sovdoorshortl.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\sovengarde\\sovdoorshortl.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "DoorShortL"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\sovengarde\\sovdoorshortr.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\sovengarde\\sovdoorshortr.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "DoorShortR"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\sovengarde\\sovdoortalll.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\sovengarde\\sovdoortalll.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "DoorTallL"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\sovengarde\\sovdoortallr.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\sovengarde\\sovdoortallr.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "DoorTallR"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrcastledoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrcastledoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "FrontGateDoor11"
+      ],
+      [
+        "SVR_Physical_29",
+        "FrontGateDoor09"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrdoor02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrdoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "WRDoor02R"
+      ],
+      [
+        "SVR_Physical_25",
+        "WRDoor02R01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrdoor03.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrdoor03.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "WRDoor03L"
+      ],
+      [
+        "SVR_Physical_25",
+        "WRDoor03R"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrdoorload02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrdoorload02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "WRDoor03LoadL01"
+      ],
+      [
+        "SVR_Physical_29",
+        "WRDoor03LoadR01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrdoorload03.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrdoorload03.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "WRDoor03LoadL"
+      ],
+      [
+        "SVR_Physical_22",
+        "WRDoor03LoadR"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrdoorloadda08.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrdoorloadda08.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "WRDoor02R02"
+      ],
+      [
+        "SVR_Physical_29",
+        "WRDoor02R03"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrdoormaingate01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrdoormaingate01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_30",
+        "FrontGateDoor08"
+      ],
+      [
+        "SVR_Physical_41",
+        "FrontGateDoor06"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrdragondoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrdragondoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "WRdragonDoorNewL"
+      ],
+      [
+        "SVR_Physical_29",
+        "WRdragonDoorNewR"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrfarmfence\\wrfencestrgate01door01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrfarmfence\\wrfencestrgate01door01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "Gate"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrinteriors\\wrjaildoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrinteriors\\wrjaildoor01.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_17",
+        "Door01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrinteriors\\wrskyforgeunderforge\\wrunderforgedoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrinteriors\\wrskyforgeunderforge\\wrunderforgedoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "WRUnderforgedoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrshackdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrshackdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "ShackDoor01Base"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrstablegate01anim.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrstablegate01anim.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "WRStableGate01DOOR"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrterrain\\wrskyforge01door01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrterrain\\wrskyforge01door01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "WRSkyForge01Door01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\windhelm\\doors\\wharenadoor.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\windhelm\\doors\\wharenadoor.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "ArenaDoor"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\windhelm\\doors\\whcastledoorentrance.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\windhelm\\doors\\whcastledoorentrance.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "WHDoor02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\windhelm\\doors\\whdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\windhelm\\doors\\whdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_22",
+        "WHSquareDecoDoorR"
+      ],
+      [
+        "SVR_Physical_31",
+        "WHSquareDecoDoorL"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\windhelm\\doors\\whdoorfrontgate.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\windhelm\\doors\\whdoorfrontgate.nif",
+    "pairs": [
+      [
+        "SVR_Physical_22",
+        "WHSquareDecoDoorL01"
+      ],
+      [
+        "SVR_Physical_34",
+        "WHSquareDecoDoorR01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\windhelm\\doors\\whgrayquarterdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\windhelm\\doors\\whgrayquarterdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_2",
+        "WHDoor03"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\windhelm\\doors\\whintdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\windhelm\\doors\\whintdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "WHSquareDecoDoorL02"
+      ],
+      [
+        "SVR_Physical_26",
+        "WHSquareDecoDoorR02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\windhelm\\doors\\whintmetalarchdoor.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\windhelm\\doors\\whintmetalarchdoor.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "WHDoor04"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\windhelm\\doors\\whmetalarchdoor.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\windhelm\\doors\\whmetalarchdoor.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "WHDoor"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\winterhold\\winterholdanimdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\winterhold\\winterholdanimdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "WinterholdAnimDoorLeft01"
+      ],
+      [
+        "SVR_Physical_24",
+        "WinterholdAnimDoorRight01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\winterhold\\winterholdgate01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\winterhold\\winterholdgate01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_22",
+        "WinterholdGateLeft01"
+      ],
+      [
+        "SVR_Physical_29",
+        "WinterholdGateRight01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\winterhold\\winterholdldoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\winterhold\\winterholdldoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "WinterholdLDoorRight01"
+      ],
+      [
+        "SVR_Physical_24",
+        "WinterholdLDoorLeft01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\winterhold\\winterholdldoor02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\winterhold\\winterholdldoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "WinterholdLDoor02Right"
+      ],
+      [
+        "SVR_Physical_24",
+        "WinterholdLDoor02Left"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\common\\metalcagedoor01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\common\\metalcagedoor01.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_21",
+        "MetalCageDoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\common\\metalcagelonggate01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\common\\metalcagelonggate01.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_21",
+        "MetalGate01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\dbhood\\dbdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\dbhood\\dbdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "BlackDoor"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\displaycases\\displaycaselgangled01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\displaycases\\displaycaselgangled01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_27",
+        "Lid01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\displaycases\\displaycaselgflat01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\displaycases\\displaycaselgflat01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_22",
+        "Lid01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\displaycases\\displaycasesmangled01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\displaycases\\displaycasesmangled01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_22",
+        "Lid01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\displaycases\\displaycasesmflat01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\displaycases\\displaycasesmflat01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_22",
+        "Lid01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\falmer\\falmerbigfencegate01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\falmer\\falmerbigfencegate01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_41",
+        "Claw07"
+      ],
+      [
+        "SVR_Physical_50",
+        "Claw01"
+      ],
+      [
+        "SVR_Physical_67",
+        "Claw02"
+      ],
+      [
+        "SVR_Physical_75",
+        "Claw03"
+      ],
+      [
+        "SVR_Physical_83",
+        "Claw05"
+      ],
+      [
+        "SVR_Physical_91",
+        "Claw06"
+      ],
+      [
+        "SVR_Physical_99",
+        "Claw08"
+      ],
+      [
+        "SVR_Physical_107",
+        "Claw04"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\helgen\\helgengate01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\helgen\\helgengate01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_22",
+        "DoorLeft"
+      ],
+      [
+        "SVR_Physical_36",
+        "DoorRight"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\imperial\\imperialwallshackle01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\imperial\\imperialwallshackle01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "ImperialWallShackle01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\mehrunes\\shrinemehrunesdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\mehrunes\\shrinemehrunesdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "Door"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\nightmother\\nmcoffin01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\nightmother\\nmcoffin01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "LidRight01"
+      ],
+      [
+        "SVR_Physical_25",
+        "LidLeft01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "clutter\\stockade\\stockadegate01.nif",
+    "physical": "svrphysicaldoorsg110\\clutter\\stockade\\stockadegate01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "a_RightDoor"
+      ],
+      [
+        "SVR_Physical_42",
+        "a_LeftDoor"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc01\\architecture\\snowelfruins\\interior\\seruinsdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc01\\architecture\\snowelfruins\\interior\\seruinsdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DoorRight01"
+      ],
+      [
+        "SVR_Physical_33",
+        "DoorLeft01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc01\\architecture\\snowelfruins\\interior\\seruinsdoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc01\\architecture\\snowelfruins\\interior\\seruinsdoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DoorRight02"
+      ],
+      [
+        "SVR_Physical_29",
+        "DoorLeft02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc01\\architecture\\snowelfruins\\interior\\seruinsdoortemple01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc01\\architecture\\snowelfruins\\interior\\seruinsdoortemple01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_45",
+        "DoorRight03"
+      ],
+      [
+        "SVR_Physical_61",
+        "DoorLeft03"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc01\\architecture\\snowelfruins\\interior\\seruinsdoortemple02.nif",
+    "physical": "svrphysicaldoorsg110\\dlc01\\architecture\\snowelfruins\\interior\\seruinsdoortemple02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_25",
+        "DoorRight04"
+      ],
+      [
+        "SVR_Physical_41",
+        "DoorLeft04"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc01\\dungeons\\castle\\lghalls\\casexfreelgdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc01\\dungeons\\castle\\lghalls\\casexfreelgdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Door01"
+      ],
+      [
+        "SVR_Physical_31",
+        "Door02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc01\\dungeons\\castle\\lghalls\\casexfreelgdoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc01\\dungeons\\castle\\lghalls\\casexfreelgdoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Door01"
+      ],
+      [
+        "SVR_Physical_31",
+        "Door02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc01\\dungeons\\castle\\lghalls\\casexfreesmdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc01\\dungeons\\castle\\lghalls\\casexfreesmdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_16",
+        "Door01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc01\\dungeons\\castle\\lghalls\\casexfreesmdoor02.nif",
+    "physical": "svrphysicaldoorsg110\\dlc01\\dungeons\\castle\\lghalls\\casexfreesmdoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_16",
+        "Door02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc01\\dungeons\\castle\\lghalls\\casexfreesmdoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc01\\dungeons\\castle\\lghalls\\casexfreesmdoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_16",
+        "Door01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc01\\soulcairn\\sc_boneyarddoor.nif",
+    "physical": "svrphysicaldoorsg110\\dlc01\\soulcairn\\sc_boneyarddoor.nif",
+    "pairs": [
+      [
+        "SVR_Physical_22",
+        "BYDoorR"
+      ],
+      [
+        "SVR_Physical_31",
+        "BYDoorL"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\architecture\\ravenrock\\dlc2rrdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\architecture\\ravenrock\\dlc2rrdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "DoorAnim01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\architecture\\ravenrock\\dlc2rrdoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\architecture\\ravenrock\\dlc2rrdoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "Door"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\architecture\\ravenrock\\redoran\\redoranadoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\architecture\\ravenrock\\redoran\\redoranadoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "LDoor"
+      ],
+      [
+        "SVR_Physical_26",
+        "RDoor"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\architecture\\ravenrock\\redoran\\redoranldoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\architecture\\ravenrock\\redoran\\redoranldoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "LDoor"
+      ],
+      [
+        "SVR_Physical_26",
+        "RDoor"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\architecture\\telvannitower\\dlc2telmithryndoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\architecture\\telvannitower\\dlc2telmithryndoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DLC2TelMithrynDoor01a"
+      ],
+      [
+        "SVR_Physical_24",
+        "DLC2TelMithrynDoor01b"
+      ],
+      [
+        "SVR_Physical_30",
+        "DLC2TelMithrynDoorFrame01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\architecture\\telvannitower\\dlc2telmithryndoor02.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\architecture\\telvannitower\\dlc2telmithryndoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DLC2TelMithrynDoor02a"
+      ],
+      [
+        "SVR_Physical_24",
+        "DLC2TelMithrynDoor02b"
+      ],
+      [
+        "SVR_Physical_30",
+        "DLC2TelMithrynDoorFrame02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\architecture\\telvannitower\\dlc2telmithryndoor03.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\architecture\\telvannitower\\dlc2telmithryndoor03.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DLC2TelMithrynDoor03b"
+      ],
+      [
+        "SVR_Physical_26",
+        "DLC2TelMithrynDoor03a"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\architecture\\thirsk\\meadhall\\dlc2thirskmeadhalldoors.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\architecture\\thirsk\\meadhall\\dlc2thirskmeadhalldoors.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DLC2ThirskMeadHallDoor02"
+      ],
+      [
+        "SVR_Physical_24",
+        "DLC2ThirskMeadHallDoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\dungeons\\dwemer\\animated\\dlc2dwemerwatergate\\dlc2dwemerwatergate.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\dungeons\\dwemer\\animated\\dlc2dwemerwatergate\\dlc2dwemerwatergate.nif",
+    "pairs": [
+      [
+        "SVR_Physical_4",
+        "DLC2GateRight"
+      ],
+      [
+        "SVR_Physical_14",
+        "DLC2GateLeft"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\dungeons\\dwemer\\animated\\dwekagrumezgate01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\dungeons\\dwemer\\animated\\dwekagrumezgate01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DoorLeft"
+      ],
+      [
+        "SVR_Physical_34",
+        "DoorRight"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\dungeons\\dwemer\\animated\\dwekagrumezgate02.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\dungeons\\dwemer\\animated\\dwekagrumezgate02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DoorLeft01"
+      ],
+      [
+        "SVR_Physical_34",
+        "DoorRight01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\dungeons\\dwemer\\animated\\dwekagrumezgate03.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\dungeons\\dwemer\\animated\\dwekagrumezgate03.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DoorLeft02"
+      ],
+      [
+        "SVR_Physical_34",
+        "DoorRight02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\dungeons\\dwemer\\animated\\dwekagrumezgate04.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\dungeons\\dwemer\\animated\\dwekagrumezgate04.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DoorLeft03"
+      ],
+      [
+        "SVR_Physical_34",
+        "DoorRight03"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\dungeons\\dwemer\\door\\dlc2dweptndoorbg01.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\dungeons\\dwemer\\door\\dlc2dweptndoorbg01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DoorLeft"
+      ],
+      [
+        "SVR_Physical_30",
+        "DoorRight"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\dungeons\\icecastle\\dlc02icedoor.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\dungeons\\icecastle\\dlc02icedoor.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DLC2IceDoorRight01"
+      ],
+      [
+        "SVR_Physical_45",
+        "DLC2IceDoorRight03"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dlc02\\dungeons\\icecastle\\dlc02icedoorloadext.nif",
+    "physical": "svrphysicaldoorsg110\\dlc02\\dungeons\\icecastle\\dlc02icedoorloadext.nif",
+    "pairs": [
+      [
+        "SVR_Physical_25",
+        "DLC2IceDoorRight09"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\dwemer\\door\\dwemerlargedoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\dwemer\\door\\dwemerlargedoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Object45"
+      ],
+      [
+        "SVR_Physical_27",
+        "Object47"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\dwemer\\door\\dwemerlargedoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\dwemer\\door\\dwemerlargedoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_24",
+        "Object02"
+      ],
+      [
+        "SVR_Physical_30",
+        "Object43"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\dwemer\\door\\dwemersmalldoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\dwemer\\door\\dwemersmalldoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Object44"
+      ],
+      [
+        "SVR_Physical_24",
+        "Object40"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\dwemer\\door\\dwemersmalldoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\dwemer\\door\\dwemersmalldoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Object38"
+      ],
+      [
+        "SVR_Physical_21",
+        "Object37"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\dwemer\\partitions\\dweptndoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\dwemer\\partitions\\dweptndoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DoorLeft"
+      ],
+      [
+        "SVR_Physical_29",
+        "DoorRight"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\clutterkits\\impwell01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\clutterkits\\impwell01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "ImpWell01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\door\\impsewerhole01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\door\\impsewerhole01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "ImpSewerHole01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\door\\impwallcage01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\door\\impwallcage01.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_18",
+        "Gate"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\door\\impwooddoordouble01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\door\\impwooddoordouble01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_36",
+        "DoorRight"
+      ],
+      [
+        "SVR_Physical_45",
+        "DoorLeft"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\door\\impwooddoordoubleload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\door\\impwooddoordoubleload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "DoorRight01"
+      ],
+      [
+        "SVR_Physical_35",
+        "DoorLeft01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\door\\impwooddoorholedoor.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\door\\impwooddoorholedoor.nif",
+    "pairs": [
+      [
+        "SVR_Physical_16",
+        "ImpWoodDoorHoleDoor@#0"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\door\\impwooddoorholedoorload.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\door\\impwooddoorholedoorload.nif",
+    "pairs": [
+      [
+        "SVR_Physical_20",
+        "ImpWoodDoorHoleDoorLoad@#0"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\door\\impwooddoorsingle01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\door\\impwooddoorsingle01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "FortRuinsDoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\door\\impwooddoorsingleload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\door\\impwooddoorsingleload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "FortRuinsDoorLoad"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\door\\impwooddoorsinglesmall01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\door\\impwooddoorsinglesmall01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_16",
+        "ImpWoodDoorSingleSmall01@#0"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\door\\impwooddoorsinglesmallload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\door\\impwooddoorsinglesmallload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "ImpWoodDoorSingleSmallLoad01@#0"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\jail\\impjaildoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\jail\\impjaildoor01.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_17",
+        "Door01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\jail\\impjaildoor02.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\jail\\impjaildoor02.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_17",
+        "Door02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\imperial\\stablekit\\impstablegate01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\imperial\\stablekit\\impstablegate01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "Gate"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\mines\\minedoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\mines\\minedoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "MineDoorLeft01"
+      ],
+      [
+        "SVR_Physical_25",
+        "MineDoorRight02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\mines\\minedoorload02.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\mines\\minedoorload02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "MineDoorLeft01"
+      ],
+      [
+        "SVR_Physical_25",
+        "MineDoorRight02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\cagedoor\\norbridgecageexsm01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\cagedoor\\norbridgecageexsm01.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_22",
+        "GateL01"
+      ],
+      [
+        "SVR_GrabOnly_31",
+        "GateR01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\largedoor\\ruins_largedoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\largedoor\\ruins_largedoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Line03"
+      ],
+      [
+        "SVR_Physical_24",
+        "Line05"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\mediumdoor\\ruinsmediumdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\mediumdoor\\ruinsmediumdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_26",
+        "NorMediumDoor02"
+      ],
+      [
+        "SVR_Physical_38",
+        "NorMediumDoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\mediumdoor\\ruinsmediumdoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\mediumdoor\\ruinsmediumdoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "NorMediumDoor03"
+      ],
+      [
+        "SVR_Physical_27",
+        "NorMediumDoor04"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\ms06wolfdoor.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\ms06wolfdoor.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "MS06WolfDoorLeft"
+      ],
+      [
+        "SVR_Physical_27",
+        "MS06WolfDoorRight"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\smdoor01\\nordoorsm01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\smdoor01\\nordoorsm01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "LeftDoor01"
+      ],
+      [
+        "SVR_Physical_27",
+        "RightDoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\smdoor01\\nordoorsmload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\smdoor01\\nordoorsmload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "LeftDoor02"
+      ],
+      [
+        "SVR_Physical_24",
+        "RightDoor02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\smdoor02\\nordoorsm02.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\smdoor02\\nordoorsm02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "RightDoor"
+      ],
+      [
+        "SVR_Physical_27",
+        "LeftDoor"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\smdoor02\\nordoorsm02flipped.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\smdoor02\\nordoorsm02flipped.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "RightDoor04"
+      ],
+      [
+        "SVR_Physical_27",
+        "LeftDoor04"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\smdoor02\\nordoorsmload02.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\smdoor02\\nordoorsmload02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "RightDoor03"
+      ],
+      [
+        "SVR_Physical_24",
+        "LeftDoor03"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\tg05lockeddoor\\tg05lockeddoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\tg05lockeddoor\\tg05lockeddoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "LeftDoor02"
+      ],
+      [
+        "SVR_Physical_27",
+        "RightDoor02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\wooddoor\\ruinswooddoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\wooddoor\\ruinswooddoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Object07"
+      ],
+      [
+        "SVR_Physical_24",
+        "Ruins_WoodenDoor02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\animated\\wooddoor\\ruinswooddoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\animated\\wooddoor\\ruinswooddoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Object09"
+      ],
+      [
+        "SVR_Physical_24",
+        "Ruins_WoodenDoor04"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\doors\\tempportstone01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\doors\\tempportstone01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "TempPortStone01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\exterior\\animated\\norlabyrinthiandoor\\norlabyrinthianloaddoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\exterior\\animated\\norlabyrinthiandoor\\norlabyrinthianloaddoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "RightDoor01"
+      ],
+      [
+        "SVR_Physical_29",
+        "LeftDoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\nordic\\exterior\\norlabyrinthianmazepanel01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\nordic\\exterior\\norlabyrinthianmazepanel01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_17",
+        "Door01"
+      ],
+      [
+        "SVR_Physical_28",
+        "Door02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\riften\\ratwayhall\\riftenrwdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\riften\\ratwayhall\\riftenrwdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Door01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\riften\\ratwayhall\\riftenrwdoorjail01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\riften\\ratwayhall\\riftenrwdoorjail01.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_22",
+        "Door"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\riften\\ratwayhall\\riftenrwdoorjailload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\riften\\ratwayhall\\riftenrwdoorjailload01.nif",
+    "pairs": [
+      [
+        "SVR_GrabOnly_22",
+        "Door"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\riften\\ratwayhall\\riftenrwdoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\riften\\ratwayhall\\riftenrwdoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Door02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\riften\\ratwayhall\\riftenrwdoorspecial01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\riften\\ratwayhall\\riftenrwdoorspecial01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_50",
+        "Slot"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\riften\\ratwayhall\\riftenrwhallsewerhole01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\riften\\ratwayhall\\riftenrwhallsewerhole01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "RiftenRWHallSewerHole01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\riften\\thievesguild\\riftenrwarmorydoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\riften\\thievesguild\\riftenrwarmorydoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_22",
+        "Door"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\riften\\thievesguild\\riftenrwarmorydoor02.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\riften\\thievesguild\\riftenrwarmorydoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_30",
+        "Door03"
+      ],
+      [
+        "SVR_Physical_42",
+        "Door04"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\riften\\thievesguild\\riftenrwarmorydoorlock01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\riften\\thievesguild\\riftenrwarmorydoorlock01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "RiftenRWArmoryDoorLock01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\riften\\thievesguild\\riftenrwthievesguilddoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\riften\\thievesguild\\riftenrwthievesguilddoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "Door"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\ship\\katariah\\shipkatariahanchorwoodhole01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\ship\\katariah\\shipkatariahanchorwoodhole01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "ShipKatariahAnchorWoodhole01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\ship\\katariah\\shipkatariahdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\ship\\katariah\\shipkatariahdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Door01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\ship\\katariah\\shipkatariahdoor02.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\ship\\katariah\\shipkatariahdoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Door02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\ship\\katariah\\shipkatariahdoorload01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\ship\\katariah\\shipkatariahdoorload01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Door03"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\ship\\questitems\\shipanchorchain01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\ship\\questitems\\shipanchorchain01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_0",
+        "ShipAnchorChain01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\ship\\shipdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\ship\\shipdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Door01"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "dungeons\\ship\\shipdoor02.nif",
+    "physical": "svrphysicaldoorsg110\\dungeons\\ship\\shipdoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Door02"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\farmhouse\\interior\\basement\\farmbtrapdoor01.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\farmhouse\\interior\\basement\\farmbtrapdoor01.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Trapdoor"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\farmhouse\\interior\\basement\\farmbtrapdoor02.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\farmhouse\\interior\\basement\\farmbtrapdoor02.nif",
+    "pairs": [
+      [
+        "SVR_Physical_18",
+        "Trapdoor"
+      ]
+    ]
+  },
+  {
+    "kind": "doors",
+    "original": "architecture\\whiterun\\wrinteriors\\wrdungeon\\wrprisoncellfloorgrate01door.nif",
+    "physical": "svrphysicaldoorsg110\\architecture\\whiterun\\wrinteriors\\wrdungeon\\wrprisoncellfloorgrate01door.nif",
+    "pairs": [
+      [
+        "SVR_Physical_13",
+        "GrateDoor"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "_byoh\\furniture\\byohupperendtable02.nif",
+    "physical": "svrphysicalcontainersc23\\_byoh\\furniture\\byohupperendtable02.nif",
+    "pairs": [
+      [
+        "SVC_Physical_22",
+        "EndTable01Drawer02"
+      ],
+      [
+        "SVC_Physical_26",
+        "EndTable01Drawer03"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "architecture\\winterhold\\winterholdbookcase01.nif",
+    "physical": "svrphysicalcontainersc23\\architecture\\winterhold\\winterholdbookcase01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_13",
+        "LeftDoor01"
+      ],
+      [
+        "SVC_Physical_21",
+        "RightDoor01"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\barrel01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\barrel01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_12",
+        "SVC_BarrelLid"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\common\\cupboard01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\common\\cupboard01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_18",
+        "Cupboard01Drawer"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\common\\dresser01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\common\\dresser01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_18",
+        "Dresser01Drawer"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\common\\endtable01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\common\\endtable01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_18",
+        "EndTable01Drawer"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\common\\strongbox01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\common\\strongbox01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_20",
+        "Top"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\common\\wardrobe01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\common\\wardrobe01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_22",
+        "Wardrobe01DoorL"
+      ],
+      [
+        "SVC_Physical_26",
+        "Wardrobe01DoorR"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\containers\\chest01\\chest01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\containers\\chest01\\chest01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_17",
+        "Lid"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\containers\\dwesoulgemcontainer01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\containers\\dwesoulgemcontainer01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_93",
+        "Lid02"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\containers\\safeandlock01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\containers\\safeandlock01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_21",
+        "Object01"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\dwemer\\dwecontainer01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\dwemer\\dwecontainer01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_38",
+        "Top"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\dwemer\\dwecontainter02.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\dwemer\\dwecontainter02.nif",
+    "pairs": [
+      [
+        "SVC_Physical_38",
+        "Lid02"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\dwemer\\dwedresser01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\dwemer\\dwedresser01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_20",
+        "DoorLeft"
+      ],
+      [
+        "SVC_Physical_27",
+        "DoorRight"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\ruins\\ruins_largechest.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\ruins\\ruins_largechest.nif",
+    "pairs": [
+      [
+        "SVC_Physical_20",
+        "RuinsChest_Top"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\ruins\\ruins_smallchest.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\ruins\\ruins_smallchest.nif",
+    "pairs": [
+      [
+        "SVC_Physical_20",
+        "RuinsSmallChestTop"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\ruins\\ruinscanopicjar01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\ruins\\ruinscanopicjar01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_23",
+        "RuinsCanopicJarHead"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\ruins\\ruinscanopicjar02.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\ruins\\ruinscanopicjar02.nif",
+    "pairs": [
+      [
+        "SVC_Physical_23",
+        "RuinsCanopicJarHead02"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\ruins\\ruinslargeurnnostand01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\ruins\\ruinslargeurnnostand01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_13",
+        "Ruins_LargeUrnTop01"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\ruins\\ruinslargeurnwithstand01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\ruins\\ruinslargeurnwithstand01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_13",
+        "Ruins_LargeUrnTop"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\sovngarde\\sovbarrel01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\sovngarde\\sovbarrel01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_15",
+        "SVC_BarrelLid"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\tgbarrel01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\tgbarrel01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_16",
+        "SVC_BarrelLid"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\upperclass\\upperchest01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\upperclass\\upperchest01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_23",
+        "Lid"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\upperclass\\uppercupboard01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\upperclass\\uppercupboard01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_18",
+        "Cupboard01Drawer01"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\upperclass\\upperdresser01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\upperclass\\upperdresser01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_18",
+        "Dresser01Drawer01"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\upperclass\\upperendtable01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\upperclass\\upperendtable01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_18",
+        "EndTable01Drawer01"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\upperclass\\upperendtable02.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\upperclass\\upperendtable02.nif",
+    "pairs": [
+      [
+        "SVC_Physical_22",
+        "EndTable01Drawer02"
+      ],
+      [
+        "SVC_Physical_26",
+        "EndTable01Drawer03"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "clutter\\upperclass\\upperwardrobe01.nif",
+    "physical": "svrphysicalcontainersc23\\clutter\\upperclass\\upperwardrobe01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_22",
+        "Wardrobe01DoorL01"
+      ],
+      [
+        "SVC_Physical_26",
+        "Wardrobe01DoorR02"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "dlc01\\clutter\\dlc01snowelfchest.nif",
+    "physical": "svrphysicalcontainersc23\\dlc01\\clutter\\dlc01snowelfchest.nif",
+    "pairs": [
+      [
+        "SVC_Physical_26",
+        "SnowElfChestTop"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "dlc01\\soulcairn\\sc_chest.nif",
+    "physical": "svrphysicalcontainersc23\\dlc01\\soulcairn\\sc_chest.nif",
+    "pairs": [
+      [
+        "SVC_Physical_43",
+        "scChestTop"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "dlc01\\soulcairn\\sc_chest01.nif",
+    "physical": "svrphysicalcontainersc23\\dlc01\\soulcairn\\sc_chest01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_30",
+        "scChestTop"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "dlc01\\soulcairn\\sc_chest02.nif",
+    "physical": "svrphysicalcontainersc23\\dlc01\\soulcairn\\sc_chest02.nif",
+    "pairs": [
+      [
+        "SVC_Physical_43",
+        "scChestTop02"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "dlc02\\clutter\\dlc2darkelfurn01.nif",
+    "physical": "svrphysicalcontainersc23\\dlc02\\clutter\\dlc2darkelfurn01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_19",
+        "Ruins_LargeUrnTop01"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "dlc02\\clutter\\expspidercraftingchest.nif",
+    "physical": "svrphysicalcontainersc23\\dlc02\\clutter\\expspidercraftingchest.nif",
+    "pairs": [
+      [
+        "SVC_Physical_46",
+        "door"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "furniture\\noble\\noblechest01.nif",
+    "physical": "svrphysicalcontainersc23\\furniture\\noble\\noblechest01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_22",
+        "Lid01"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "furniture\\noble\\noblechestdrawers01.nif",
+    "physical": "svrphysicalcontainersc23\\furniture\\noble\\noblechestdrawers01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_19",
+        "DoorR03"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "furniture\\noble\\noblechestdrawers02.nif",
+    "physical": "svrphysicalcontainersc23\\furniture\\noble\\noblechestdrawers02.nif",
+    "pairs": [
+      [
+        "SVC_Physical_19",
+        "DoorR02"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "furniture\\noble\\noblenighttable01.nif",
+    "physical": "svrphysicalcontainersc23\\furniture\\noble\\noblenighttable01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_19",
+        "DoorR04"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "furniture\\noble\\noblewardrobe01.nif",
+    "physical": "svrphysicalcontainersc23\\furniture\\noble\\noblewardrobe01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_22",
+        "DoorR01"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "furniture\\orcfurniture\\orcdresser01.nif",
+    "physical": "svrphysicalcontainersc23\\furniture\\orcfurniture\\orcdresser01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_18",
+        "Drawer01"
+      ]
+    ]
+  },
+  {
+    "kind": "containers",
+    "original": "furniture\\orcfurniture\\orcendtable01.nif",
+    "physical": "svrphysicalcontainersc23\\furniture\\orcfurniture\\orcendtable01.nif",
+    "pairs": [
+      [
+        "SVC_Physical_18",
+        "Drawer01"
+      ]
+    ]
+  }
+]

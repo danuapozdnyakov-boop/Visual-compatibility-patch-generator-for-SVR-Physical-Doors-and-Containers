@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(SVRVisualPatch LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+file(GLOB NIFLY_SOURCES CONFIGURE_DEPENDS nifly/src/*.cpp)
+add_executable(SVRVisualPatch source/graft.cpp ${NIFLY_SOURCES})
+target_include_directories(SVRVisualPatch PRIVATE nifly/include nifly/external)
