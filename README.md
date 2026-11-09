@@ -1,8 +1,13 @@
-# SVR Visual Compatibility Generator 0.4 Beta
+# SVR Visual Compatibility Generator 0.4.1 Beta
 
 Source for an optional Skyrim VR mesh compatibility tool. It copies render geometry,
 UVs and shader/material references from locally installed graphics meshes into supported
 SVR Physical Doors / Containers meshes, preserving their Havok blocks byte for byte.
+
+## Changes in 0.4.1
+- Converts supported Skyrim LE (BS 83) donor meshes to SE format before transferring geometry and materials.
+- Records skipped models with their path, processing stage, and error in the manifest and continues with the other models.
+- Verified with the reported Riften door sample and a 209-model comparison against 0.4. In-game PBR rendering on the reported setup is pending confirmation.
 
 ## Source map
 - `gui/Wizard.cs`: Windows Forms launcher (English/Russian), folder selection, mod detection.

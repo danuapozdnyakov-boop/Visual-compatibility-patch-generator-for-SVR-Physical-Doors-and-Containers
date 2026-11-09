@@ -16,7 +16,7 @@ class Wizard:Form{
  List<Control> inputs=new List<Control>();string archive="";string home=AppDomain.CurrentDomain.BaseDirectory;
  string T(string en,string russian){return ru?russian:en;}
  public Wizard(){
-  Text="SVR Visual Compatibility Generator 0.4 Beta";ClientSize=new Size(850,656);MinimumSize=new Size(790,640);StartPosition=FormStartPosition.CenterScreen;Font=new Font("Segoe UI",10);BackColor=Color.FromArgb(245,246,248);AutoScaleMode=AutoScaleMode.Dpi;
+  Text="SVR Visual Compatibility Generator 0.4.1 Beta";ClientSize=new Size(850,656);MinimumSize=new Size(790,640);StartPosition=FormStartPosition.CenterScreen;Font=new Font("Segoe UI",10);BackColor=Color.FromArgb(245,246,248);AutoScaleMode=AutoScaleMode.Dpi;
   var title=new Label{Text=T("Match your physical doors and containers to your graphics mods","Внешний вид дверей и контейнеров под вашу сборку"),Location=new Point(24,20),Size=new Size(800,30),Font=new Font("Segoe UI",14,FontStyle.Bold)};Controls.Add(title);
   Controls.Add(new Label{Text=T("Choose folders, then create an installable MO2 patch. Python is included.","Выберите папки и создайте готовый патч для MO2. Python уже включён."),Location=new Point(24,54),Size=new Size(800,24)});
   autodetect.Text=T("Find SVR mods in MO2…","Найти SVR-моды в MO2…");autodetect.SetBounds(24,89,260,32);Controls.Add(autodetect);autodetect.Click+=(s,e)=>FindMods();inputs.Add(autodetect);

@@ -9,7 +9,12 @@ class Nif:
             x=data[p:p+n];p+=n;assert len(x)==n;return x
         def u():return struct.unpack('<I',take(4))[0]
         self.version=u();self.endian=take(1);self.user=u();n=u();self.bs=u()
-        assert (self.version,self.user,self.bs)==(0x14020007,12,100)
+        if (self.version, self.user, self.bs, self.endian) != (0x14020007, 12, 100, b'\x01'):
+            raise ValueError(
+                f'Unsupported NIF header: version=0x{self.version:08x}, '
+                f'user={self.user}, BS={self.bs}, endian={self.endian.hex()}; '
+                'expected version=0x14020007, user=12, BS=100, endian=01'
+            )
         self.exports=[take(take(1)[0]) for _ in range(3)]
         types=[take(u()).decode() for _ in range(struct.unpack('<H',take(2))[0])]
         indices=struct.unpack('<'+'H'*n,take(2*n));sizes=[u() for _ in range(n)]

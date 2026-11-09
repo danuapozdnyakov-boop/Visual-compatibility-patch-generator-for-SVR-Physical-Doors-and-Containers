@@ -15,7 +15,35 @@ void unlinkShape(NifFile& n,NiObject* shape){
  const auto id=n.GetBlockID(shape);
  for(auto node:n.GetNodes())for(uint32_t i=node->childRefs.GetSize();i>0;--i)if(node->childRefs.GetBlockRef(i-1)==id)node->childRefs.RemoveBlockRef(i-1);
 }
+int convertLegacyDonor(const wchar_t* input, const wchar_t* output) {
+ NifFile donor;
+ if (donor.Load(longPath(input))) {
+  std::cerr << "Cannot load Skyrim LE donor";
+  return 20;
+ }
+ if (!donor.GetHeader().GetVersion().IsSK()) {
+  std::cerr << "Expected a Skyrim LE donor (BS 83)";
+  return 21;
+ }
+ OptOptions options;
+ options.targetVersion = NiVersion::getSSE();
+ options.removeParallax = false;
+ options.fixShaderFlags = false;
+ if (donor.OptimizeFor(options).versionMismatch || !donor.GetHeader().GetVersion().IsSSE()) {
+  std::cerr << "Skyrim LE to SE conversion failed";
+  return 22;
+ }
+ NifSaveOptions save;
+ save.optimize = false;
+ save.sortBlocks = false;
+ if (donor.Save(longPath(output), save)) {
+  std::cerr << "Cannot save converted donor";
+  return 23;
+ }
+ return 0;
+}
 int wmain(int argc,wchar_t** argv){try{
+ if(argc==4 && std::wstring(argv[1])==L"--convert-le")return convertLegacyDonor(argv[2],argv[3]);
  if(argc!=5 && argc!=6)return 2;NifFile dst,src;if(dst.Load(longPath(argv[1])) || src.Load(longPath(argv[2])))return 3;
  if(argc==6){
   unsigned count=0;auto oldShapes=dst.GetShapes();auto donors=src.GetShapes();
