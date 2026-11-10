@@ -1,8 +1,14 @@
-# SVR Visual Compatibility Generator 0.4.1 Beta
+# SVR Visual Compatibility Generator 0.4.2 Beta
 
 Source for an optional Skyrim VR mesh compatibility tool. It copies render geometry,
 UVs and shader/material references from locally installed graphics meshes into supported
 SVR Physical Doors / Containers meshes, preserving their Havok blocks byte for byte.
+
+## Changes in 0.4.2
+- Supports the reported Solitude interior door node alias.
+- Separates the stationary frame from the moving leaf for the tested Dark Brotherhood Door mesh variant.
+- Verified both samples and reproduced 209 existing generated meshes byte for byte.
+- In-game movement of the replacement Black Door is pending confirmation.
 
 ## Changes in 0.4.1
 - Converts supported Skyrim LE (BS 83) donor meshes to SE format before transferring geometry and materials.

@@ -45,6 +45,14 @@ for profile in json.loads((here/'profiles.json').read_text()):
    aliases={'clutter\\upperclass\\upperdresser01.nif':{'Dresser01Drawer':'Dresser01Drawer01'},'clutter\\upperclass\\upperendtable01.nif':{'EndTable01Drawer':'EndTable01Drawer01'},'clutter\\upperclass\\upperwardrobe01.nif':{'Wardrobe01DoorL':'Wardrobe01DoorL01','Wardrobe01DoorR':'Wardrobe01DoorR02'}}
    if original in aliases:
     donorNif.strings=[aliases[original].get(v,v) for v in donorNif.strings];prepared=True
+   if original == 'architecture\\solitude\\doors\\ssingledoorint01load.nif':
+    old_node, new_node = 'SSingleDoorInt01R@#0', 'SSingleDoorInt01mesh02'
+    if old_node in donorNif.strings and new_node not in donorNif.strings:
+     donorNif.strings[donorNif.strings.index(old_node)] = new_node
+     prepared = True
+   if original == 'clutter\\dbhood\\dbdoor01.nif':
+    from black_door_donor import prepare_black_door
+    prepared = prepare_black_door(donorNif) or prepared
    if original in ('clutter\\barrel01.nif','clutter\\tgbarrel01.nif','clutter\\sovngarde\\sovbarrel01.nif'):
     from split_barrel import split_barrel
     from barrel_cap import prepare_cap
